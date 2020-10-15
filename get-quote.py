@@ -13,7 +13,7 @@ def primary():
   print(quotes[0])
   print(quotes[13])
 
-  last = 13
+  last = 29
   rnd = random.randint(0, last)
   print(quotes[rnd])
 
